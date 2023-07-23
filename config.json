@@ -1,0 +1,10 @@
+{
+    "prefix": "PREFIX",
+    "token": "TOKEN",
+    
+    "botID": "BOT_ID",
+    "serverID": "SEVER_ID",
+
+    "ownersID": "DEV_ID"
+    
+}
