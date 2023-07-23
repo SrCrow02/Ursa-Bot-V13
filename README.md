@@ -4,7 +4,7 @@ Uma bot Discord feita em JS e Node.js na V13 da API do Discord.js
 Adicionar a Ursa: [link](https://discord.com/api/oauth2/authorize?client_id=966087520469286962&permissions=8&scope=applications.commands%20bot)
 
 <h2>As dependencias são:</h2>
-<p>Ao Baixar o codigo digite <strong>npm install</strong> que todas as dependencias serão instaladas</p>
+<p>Ao Baixar o codigo, digite <strong>npm install</strong> que todas as dependencias serão instaladas</p>
 
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
